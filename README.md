@@ -62,7 +62,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 	- [🎢 Career Courses (10)](#-career-courses)
 	- [📈 Marketing Courses (4)](#-marketing-courses)
 - [💪 Health and Fitness (10)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (46)](#-miscellaneous)
+- [🎯 Miscellaneous (46)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -340,7 +340,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 [⬆️ Go to Top](#table-of-contents)
 
 
-## 🧑‍🎨 Miscellaneous
+## 🎯 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
